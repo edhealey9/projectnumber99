@@ -1,0 +1,2714 @@
+[
+  {
+    "Date": "1/1/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -222.18
+  },
+  {
+    "Date": "1/2/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 3800
+  },
+  {
+    "Date": "1/2/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 145.12
+  },
+  {
+    "Date": "1/2/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": 3950
+  },
+  {
+    "Date": "1/2/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -114.85
+  },
+  {
+    "Date": "1/2/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -3800
+  },
+  {
+    "Date": "1/2/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -25.01
+  },
+  {
+    "Date": "1/3/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -3000
+  },
+  {
+    "Date": "1/3/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -400
+  },
+  {
+    "Date": "1/3/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -1071.34
+  },
+  {
+    "Date": "1/3/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -1669.66
+  },
+  {
+    "Date": "1/3/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 3000
+  },
+  {
+    "Date": "1/3/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -104
+  },
+  {
+    "Date": "1/3/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -104
+  },
+  {
+    "Date": "1/3/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -28.76
+  },
+  {
+    "Date": "1/4/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -599.75
+  },
+  {
+    "Date": "1/4/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 599.75
+  },
+  {
+    "Date": "1/5/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -50.99
+  },
+  {
+    "Date": "1/6/2020",
+    "Location": 19,
+    "Fund": "C",
+    "Value": 3300
+  },
+  {
+    "Date": "1/6/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 100
+  },
+  {
+    "Date": "1/6/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 100
+  },
+  {
+    "Date": "1/6/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -29.99
+  },
+  {
+    "Date": "1/7/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": 2537
+  },
+  {
+    "Date": "1/7/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -376.56
+  },
+  {
+    "Date": "1/8/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 729.32
+  },
+  {
+    "Date": "1/8/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -0.78
+  },
+  {
+    "Date": "1/8/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -75
+  },
+  {
+    "Date": "1/8/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -37
+  },
+  {
+    "Date": "1/9/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -3500
+  },
+  {
+    "Date": "1/9/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 3500
+  },
+  {
+    "Date": "1/9/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -65.5
+  },
+  {
+    "Date": "1/10/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -200
+  },
+  {
+    "Date": "1/10/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -53
+  },
+  {
+    "Date": "1/13/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": 2700
+  },
+  {
+    "Date": "1/13/2020",
+    "Location": "Lo",
+    "Fund": "E",
+    "Value": -3458
+  },
+  {
+    "Date": "1/14/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -50.42
+  },
+  {
+    "Date": "1/15/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -132.69
+  },
+  {
+    "Date": "1/15/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -678.98
+  },
+  {
+    "Date": "1/15/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -15.65
+  },
+  {
+    "Date": "1/15/2020",
+    "Location": "Lo",
+    "Fund": "E",
+    "Value": -926
+  },
+  {
+    "Date": "1/15/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -67.2
+  },
+  {
+    "Date": "1/15/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -20.51
+  },
+  {
+    "Date": "1/15/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -93
+  },
+  {
+    "Date": "1/15/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 678.98
+  },
+  {
+    "Date": "1/16/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -15.99
+  },
+  {
+    "Date": "1/16/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -13.99
+  },
+  {
+    "Date": "1/19/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -10.33
+  },
+  {
+    "Date": "1/19/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -2.25
+  },
+  {
+    "Date": "1/20/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -500
+  },
+  {
+    "Date": "1/20/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 522.45
+  },
+  {
+    "Date": "1/20/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 500
+  },
+  {
+    "Date": "1/20/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -48.25
+  },
+  {
+    "Date": "1/21/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -522.45
+  },
+  {
+    "Date": "1/21/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -259.91
+  },
+  {
+    "Date": "1/21/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -303.75
+  },
+  {
+    "Date": "1/21/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -328.37
+  },
+  {
+    "Date": "1/21/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 303.75
+  },
+  {
+    "Date": "1/21/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -65
+  },
+  {
+    "Date": "1/22/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 347.32
+  },
+  {
+    "Date": "1/22/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -1000
+  },
+  {
+    "Date": "1/22/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -13.47
+  },
+  {
+    "Date": "1/22/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 1000
+  },
+  {
+    "Date": "1/22/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -12500
+  },
+  {
+    "Date": "1/22/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -500
+  },
+  {
+    "Date": "1/24/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -200
+  },
+  {
+    "Date": "1/25/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": 5900
+  },
+  {
+    "Date": "1/25/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -152.98
+  },
+  {
+    "Date": "1/26/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -89
+  },
+  {
+    "Date": "1/26/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -131.34
+  },
+  {
+    "Date": "1/26/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -28
+  },
+  {
+    "Date": "1/27/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -39.77
+  },
+  {
+    "Date": "1/27/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -119.94
+  },
+  {
+    "Date": "1/27/2020",
+    "Location": "Lo",
+    "Fund": "E",
+    "Value": -590
+  },
+  {
+    "Date": "1/28/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -38.9
+  },
+  {
+    "Date": "1/29/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 375.56
+  },
+  {
+    "Date": "1/29/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -200
+  },
+  {
+    "Date": "1/30/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -9000
+  },
+  {
+    "Date": "1/30/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 9000
+  },
+  {
+    "Date": "1/30/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -10.48
+  },
+  {
+    "Date": "1/31/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -8000
+  },
+  {
+    "Date": "1/31/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -29.99
+  },
+  {
+    "Date": "1/31/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 0.05
+  },
+  {
+    "Date": "1/31/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 8000
+  },
+  {
+    "Date": "2/1/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": 3950
+  },
+  {
+    "Date": "2/1/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -3900
+  },
+  {
+    "Date": "2/2/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -111.98
+  },
+  {
+    "Date": "2/2/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -96
+  },
+  {
+    "Date": "2/2/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -51.99
+  },
+  {
+    "Date": "2/3/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 3900
+  },
+  {
+    "Date": "2/3/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 100
+  },
+  {
+    "Date": "2/3/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -1381.97
+  },
+  {
+    "Date": "2/3/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -104
+  },
+  {
+    "Date": "2/3/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 1381.97
+  },
+  {
+    "Date": "2/3/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -100
+  },
+  {
+    "Date": "2/4/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": 2537
+  },
+  {
+    "Date": "2/4/2020",
+    "Location": 19,
+    "Fund": "C",
+    "Value": 3300
+  },
+  {
+    "Date": "2/4/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -205
+  },
+  {
+    "Date": "2/4/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -24.99
+  },
+  {
+    "Date": "2/5/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -3000
+  },
+  {
+    "Date": "2/5/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 139.76
+  },
+  {
+    "Date": "2/5/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 3000
+  },
+  {
+    "Date": "2/5/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -1074.35
+  },
+  {
+    "Date": "2/5/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -1666.65
+  },
+  {
+    "Date": "2/5/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -48.98
+  },
+  {
+    "Date": "2/6/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -354.24
+  },
+  {
+    "Date": "2/6/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -36
+  },
+  {
+    "Date": "2/7/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -3500
+  },
+  {
+    "Date": "2/7/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 3500
+  },
+  {
+    "Date": "2/7/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -500
+  },
+  {
+    "Date": "2/7/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 500
+  },
+  {
+    "Date": "2/9/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -2
+  },
+  {
+    "Date": "2/10/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -54
+  },
+  {
+    "Date": "2/11/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -200
+  },
+  {
+    "Date": "2/12/2020",
+    "Location": 19,
+    "Fund": "C",
+    "Value": 1300
+  },
+  {
+    "Date": "2/12/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 742.58
+  },
+  {
+    "Date": "2/12/2020",
+    "Location": "Lo",
+    "Fund": "E",
+    "Value": -3458
+  },
+  {
+    "Date": "2/12/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -47.01
+  },
+  {
+    "Date": "2/14/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -599.96
+  },
+  {
+    "Date": "2/14/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -265.11
+  },
+  {
+    "Date": "2/16/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -15.99
+  },
+  {
+    "Date": "2/17/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 611.22
+  },
+  {
+    "Date": "2/17/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 212.98
+  },
+  {
+    "Date": "2/17/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -44.02
+  },
+  {
+    "Date": "2/17/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -13.99
+  },
+  {
+    "Date": "2/18/2020",
+    "Location": 19,
+    "Fund": "T",
+    "Value": 440
+  },
+  {
+    "Date": "2/18/2020",
+    "Location": 19,
+    "Fund": "T",
+    "Value": 3530
+  },
+  {
+    "Date": "2/18/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -148.63
+  },
+  {
+    "Date": "2/18/2020",
+    "Location": 19,
+    "Fund": "T",
+    "Value": 3000
+  },
+  {
+    "Date": "2/18/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -611.22
+  },
+  {
+    "Date": "2/18/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": 185
+  },
+  {
+    "Date": "2/18/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -212.98
+  },
+  {
+    "Date": "2/18/2020",
+    "Location": "Lo",
+    "Fund": "E",
+    "Value": -926
+  },
+  {
+    "Date": "2/18/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -61.82
+  },
+  {
+    "Date": "2/18/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -39.8
+  },
+  {
+    "Date": "2/18/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -601.25
+  },
+  {
+    "Date": "2/19/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 688.91
+  },
+  {
+    "Date": "2/19/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -304.5
+  },
+  {
+    "Date": "2/19/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -328.37
+  },
+  {
+    "Date": "2/19/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -2.5
+  },
+  {
+    "Date": "2/20/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -222.18
+  },
+  {
+    "Date": "2/23/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -22
+  },
+  {
+    "Date": "2/24/2020",
+    "Location": 19,
+    "Fund": "T",
+    "Value": -7000
+  },
+  {
+    "Date": "2/24/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -20.98
+  },
+  {
+    "Date": "2/24/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -51
+  },
+  {
+    "Date": "2/24/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -47.01
+  },
+  {
+    "Date": "2/25/2020",
+    "Location": 19,
+    "Fund": "C",
+    "Value": 1500
+  },
+  {
+    "Date": "2/25/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -159.03
+  },
+  {
+    "Date": "2/25/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -90
+  },
+  {
+    "Date": "2/26/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 378.03
+  },
+  {
+    "Date": "2/26/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -75
+  },
+  {
+    "Date": "2/27/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -17.18
+  },
+  {
+    "Date": "2/27/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -26
+  },
+  {
+    "Date": "2/28/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -5
+  },
+  {
+    "Date": "2/28/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -2
+  },
+  {
+    "Date": "2/28/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -15
+  },
+  {
+    "Date": "2/28/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -2.25
+  },
+  {
+    "Date": "2/29/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -29.99
+  },
+  {
+    "Date": "2/29/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 0.06
+  },
+  {
+    "Date": "3/1/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": 3950
+  },
+  {
+    "Date": "3/1/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -3900
+  },
+  {
+    "Date": "3/1/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -48.98
+  },
+  {
+    "Date": "3/1/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -36
+  },
+  {
+    "Date": "3/2/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -4200
+  },
+  {
+    "Date": "3/2/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -1000
+  },
+  {
+    "Date": "3/2/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 3900
+  },
+  {
+    "Date": "3/2/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 100
+  },
+  {
+    "Date": "3/2/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -500
+  },
+  {
+    "Date": "3/2/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": 5
+  },
+  {
+    "Date": "3/2/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": 2
+  },
+  {
+    "Date": "3/2/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 10500
+  },
+  {
+    "Date": "3/2/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -10333.27
+  },
+  {
+    "Date": "3/2/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -50
+  },
+  {
+    "Date": "3/2/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 1000
+  },
+  {
+    "Date": "3/2/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -65
+  },
+  {
+    "Date": "3/2/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -38.47
+  },
+  {
+    "Date": "3/3/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -3000
+  },
+  {
+    "Date": "3/3/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 3000
+  },
+  {
+    "Date": "3/3/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -1077.38
+  },
+  {
+    "Date": "3/3/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -1663.62
+  },
+  {
+    "Date": "3/3/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -104
+  },
+  {
+    "Date": "3/3/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -111.98
+  },
+  {
+    "Date": "3/4/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": 2537
+  },
+  {
+    "Date": "3/4/2020",
+    "Location": "Lo",
+    "Fund": "E",
+    "Value": 3195
+  },
+  {
+    "Date": "3/4/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 1000
+  },
+  {
+    "Date": "3/4/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 286.34
+  },
+  {
+    "Date": "3/6/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -26.2
+  },
+  {
+    "Date": "3/6/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -50
+  },
+  {
+    "Date": "3/6/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -18.49
+  },
+  {
+    "Date": "3/9/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -1.5
+  },
+  {
+    "Date": "3/9/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -52.52
+  },
+  {
+    "Date": "3/10/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -1500
+  },
+  {
+    "Date": "3/10/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": 23447.37
+  },
+  {
+    "Date": "3/10/2020",
+    "Location": "Lo",
+    "Fund": "E",
+    "Value": -3458
+  },
+  {
+    "Date": "3/10/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": 2800
+  },
+  {
+    "Date": "3/10/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -225.85
+  },
+  {
+    "Date": "3/10/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -52.06
+  },
+  {
+    "Date": "3/10/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -70
+  },
+  {
+    "Date": "3/10/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 1500
+  },
+  {
+    "Date": "3/11/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -12000
+  },
+  {
+    "Date": "3/11/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 12000
+  },
+  {
+    "Date": "3/11/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 64.22
+  },
+  {
+    "Date": "3/11/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -1660.6
+  },
+  {
+    "Date": "3/11/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 737.14
+  },
+  {
+    "Date": "3/11/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 500
+  },
+  {
+    "Date": "3/11/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 1660.6
+  },
+  {
+    "Date": "3/11/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -91
+  },
+  {
+    "Date": "3/12/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -737.14
+  },
+  {
+    "Date": "3/12/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -500
+  },
+  {
+    "Date": "3/13/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -80.43
+  },
+  {
+    "Date": "3/13/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -17.23
+  },
+  {
+    "Date": "3/15/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -29.16
+  },
+  {
+    "Date": "3/16/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -133.55
+  },
+  {
+    "Date": "3/16/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -10000
+  },
+  {
+    "Date": "3/16/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -400
+  },
+  {
+    "Date": "3/16/2020",
+    "Location": "Lo",
+    "Fund": "E",
+    "Value": -926
+  },
+  {
+    "Date": "3/16/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -67.7
+  },
+  {
+    "Date": "3/16/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -15.99
+  },
+  {
+    "Date": "3/16/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -13.99
+  },
+  {
+    "Date": "3/16/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -37
+  },
+  {
+    "Date": "3/17/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -21.85
+  },
+  {
+    "Date": "3/17/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -7.6
+  },
+  {
+    "Date": "3/18/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 57.77
+  },
+  {
+    "Date": "3/18/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -336.15
+  },
+  {
+    "Date": "3/18/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -14.38
+  },
+  {
+    "Date": "3/18/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -11.54
+  },
+  {
+    "Date": "3/18/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -132.34
+  },
+  {
+    "Date": "3/18/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -21000
+  },
+  {
+    "Date": "3/18/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -1050
+  },
+  {
+    "Date": "3/19/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -147.99
+  },
+  {
+    "Date": "3/19/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -16.27
+  },
+  {
+    "Date": "3/19/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -8.32
+  },
+  {
+    "Date": "3/20/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -108.49
+  },
+  {
+    "Date": "3/20/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -7.23
+  },
+  {
+    "Date": "3/20/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -13.97
+  },
+  {
+    "Date": "3/20/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -14.56
+  },
+  {
+    "Date": "3/21/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -45.5
+  },
+  {
+    "Date": "3/22/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -8.99
+  },
+  {
+    "Date": "3/22/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -22.23
+  },
+  {
+    "Date": "3/23/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -1750
+  },
+  {
+    "Date": "3/23/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -82.16
+  },
+  {
+    "Date": "3/23/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -89.1
+  },
+  {
+    "Date": "3/24/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -250
+  },
+  {
+    "Date": "3/24/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -9.07
+  },
+  {
+    "Date": "3/24/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -5
+  },
+  {
+    "Date": "3/24/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -100
+  },
+  {
+    "Date": "3/24/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -18.04
+  },
+  {
+    "Date": "3/25/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 100
+  },
+  {
+    "Date": "3/25/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -159.03
+  },
+  {
+    "Date": "3/26/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 250
+  },
+  {
+    "Date": "3/26/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -15.81
+  },
+  {
+    "Date": "3/26/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -251.18
+  },
+  {
+    "Date": "3/27/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -5
+  },
+  {
+    "Date": "3/27/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -136.05
+  },
+  {
+    "Date": "3/27/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -48.15
+  },
+  {
+    "Date": "3/28/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -26.35
+  },
+  {
+    "Date": "3/29/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -21.53
+  },
+  {
+    "Date": "3/29/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -18.12
+  },
+  {
+    "Date": "3/29/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -10.34
+  },
+  {
+    "Date": "3/30/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -8500
+  },
+  {
+    "Date": "3/30/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 8500
+  },
+  {
+    "Date": "3/30/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -280.28
+  },
+  {
+    "Date": "3/30/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -15.57
+  },
+  {
+    "Date": "3/31/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -8500
+  },
+  {
+    "Date": "3/31/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 8500
+  },
+  {
+    "Date": "3/31/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -29.99
+  },
+  {
+    "Date": "3/31/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 0.06
+  },
+  {
+    "Date": "3/31/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -420
+  },
+  {
+    "Date": "3/31/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -111.98
+  },
+  {
+    "Date": "3/31/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -15.15
+  },
+  {
+    "Date": "4/1/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -111.61
+  },
+  {
+    "Date": "4/1/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -25.67
+  },
+  {
+    "Date": "4/1/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 111.61
+  },
+  {
+    "Date": "4/3/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": 2537
+  },
+  {
+    "Date": "4/3/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": 1700
+  },
+  {
+    "Date": "4/3/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": 1700
+  },
+  {
+    "Date": "4/3/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 100
+  },
+  {
+    "Date": "4/3/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -200
+  },
+  {
+    "Date": "4/3/2020",
+    "Location": "Lo",
+    "Fund": "E",
+    "Value": 3195
+  },
+  {
+    "Date": "4/3/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -104
+  },
+  {
+    "Date": "4/4/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -305.63
+  },
+  {
+    "Date": "4/6/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -1604
+  },
+  {
+    "Date": "4/6/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 500
+  },
+  {
+    "Date": "4/6/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 500
+  },
+  {
+    "Date": "4/6/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -1040.77
+  },
+  {
+    "Date": "4/6/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -1110
+  },
+  {
+    "Date": "4/6/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 1604
+  },
+  {
+    "Date": "4/6/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 1040.77
+  },
+  {
+    "Date": "4/6/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 1110
+  },
+  {
+    "Date": "4/7/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -600
+  },
+  {
+    "Date": "4/7/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 600
+  },
+  {
+    "Date": "4/8/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": 170000
+  },
+  {
+    "Date": "4/8/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -3500
+  },
+  {
+    "Date": "4/8/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 500
+  },
+  {
+    "Date": "4/8/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 3500
+  },
+  {
+    "Date": "4/8/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 500
+  },
+  {
+    "Date": "4/8/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -32.53
+  },
+  {
+    "Date": "4/8/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -394.68
+  },
+  {
+    "Date": "4/9/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -20000
+  },
+  {
+    "Date": "4/9/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 20000
+  },
+  {
+    "Date": "4/9/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -1080.41
+  },
+  {
+    "Date": "4/9/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -1660.59
+  },
+  {
+    "Date": "4/9/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -10000
+  },
+  {
+    "Date": "4/9/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 1200
+  },
+  {
+    "Date": "4/10/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -25000
+  },
+  {
+    "Date": "4/10/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -1200
+  },
+  {
+    "Date": "4/10/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -20000
+  },
+  {
+    "Date": "4/10/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 25000
+  },
+  {
+    "Date": "4/10/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 20000
+  },
+  {
+    "Date": "4/10/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -5000
+  },
+  {
+    "Date": "4/10/2020",
+    "Location": "Lo",
+    "Fund": "E",
+    "Value": -3458
+  },
+  {
+    "Date": "4/10/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -12100
+  },
+  {
+    "Date": "4/10/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -10333.27
+  },
+  {
+    "Date": "4/10/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 5000
+  },
+  {
+    "Date": "4/10/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -0.25
+  },
+  {
+    "Date": "4/10/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 12100
+  },
+  {
+    "Date": "4/12/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -41.65
+  },
+  {
+    "Date": "4/13/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -41.9
+  },
+  {
+    "Date": "4/13/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -10000
+  },
+  {
+    "Date": "4/13/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 41.9
+  },
+  {
+    "Date": "4/14/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -4450
+  },
+  {
+    "Date": "4/14/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -670.86
+  },
+  {
+    "Date": "4/15/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -157.6
+  },
+  {
+    "Date": "4/15/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -7000
+  },
+  {
+    "Date": "4/15/2020",
+    "Location": "Lo",
+    "Fund": "E",
+    "Value": -926
+  },
+  {
+    "Date": "4/15/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -77.88
+  },
+  {
+    "Date": "4/16/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -15.99
+  },
+  {
+    "Date": "4/16/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": 39.01
+  },
+  {
+    "Date": "4/16/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -97.58
+  },
+  {
+    "Date": "4/16/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -58.48
+  },
+  {
+    "Date": "4/16/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": 14.08
+  },
+  {
+    "Date": "4/17/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -75.27
+  },
+  {
+    "Date": "4/17/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -13.99
+  },
+  {
+    "Date": "4/17/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -22.74
+  },
+  {
+    "Date": "4/18/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -63.95
+  },
+  {
+    "Date": "4/20/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -1264.99
+  },
+  {
+    "Date": "4/20/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -9.51
+  },
+  {
+    "Date": "4/20/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -331.96
+  },
+  {
+    "Date": "4/20/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 1264.99
+  },
+  {
+    "Date": "4/20/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -13.57
+  },
+  {
+    "Date": "4/21/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 1000
+  },
+  {
+    "Date": "4/21/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -25.69
+  },
+  {
+    "Date": "4/22/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 70
+  },
+  {
+    "Date": "4/22/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -89.99
+  },
+  {
+    "Date": "4/22/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": 58.54
+  },
+  {
+    "Date": "4/22/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -29.27
+  },
+  {
+    "Date": "4/22/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -27.66
+  },
+  {
+    "Date": "4/22/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -241.71
+  },
+  {
+    "Date": "4/23/2020",
+    "Location": 19,
+    "Fund": "T",
+    "Value": -100000
+  },
+  {
+    "Date": "4/23/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -1000
+  },
+  {
+    "Date": "4/23/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -32.57
+  },
+  {
+    "Date": "4/23/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 1000
+  },
+  {
+    "Date": "4/24/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -84.06
+  },
+  {
+    "Date": "4/25/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -140.82
+  },
+  {
+    "Date": "4/27/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -8.69
+  },
+  {
+    "Date": "4/29/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 139.48
+  },
+  {
+    "Date": "4/29/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -200
+  },
+  {
+    "Date": "4/29/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -354.05
+  },
+  {
+    "Date": "4/29/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -246.01
+  },
+  {
+    "Date": "4/29/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -226.79
+  },
+  {
+    "Date": "4/29/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 354.05
+  },
+  {
+    "Date": "4/29/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -18.87
+  },
+  {
+    "Date": "4/29/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 246.01
+  },
+  {
+    "Date": "4/30/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -5000
+  },
+  {
+    "Date": "4/30/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -29.99
+  },
+  {
+    "Date": "4/30/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 0.01
+  },
+  {
+    "Date": "4/30/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -17.52
+  },
+  {
+    "Date": "5/1/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 100
+  },
+  {
+    "Date": "5/1/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -111.98
+  },
+  {
+    "Date": "5/4/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -74.21
+  },
+  {
+    "Date": "5/4/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -640
+  },
+  {
+    "Date": "5/4/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -18.57
+  },
+  {
+    "Date": "5/4/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -104
+  },
+  {
+    "Date": "5/4/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 640
+  },
+  {
+    "Date": "5/6/2020",
+    "Location": 19,
+    "Fund": "C",
+    "Value": 1031.26
+  },
+  {
+    "Date": "5/7/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -130.85
+  },
+  {
+    "Date": "5/7/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -1083.45
+  },
+  {
+    "Date": "5/7/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -1657.55
+  },
+  {
+    "Date": "5/7/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 130.85
+  },
+  {
+    "Date": "5/8/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -4000
+  },
+  {
+    "Date": "5/8/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 4000
+  },
+  {
+    "Date": "5/8/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 5732
+  },
+  {
+    "Date": "5/8/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -10333.27
+  },
+  {
+    "Date": "5/8/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -66.63
+  },
+  {
+    "Date": "5/9/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -2003.57
+  },
+  {
+    "Date": "5/10/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -34.98
+  },
+  {
+    "Date": "5/11/2020",
+    "Location": "Lo",
+    "Fund": "E",
+    "Value": -3662.03
+  },
+  {
+    "Date": "5/11/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 3200
+  },
+  {
+    "Date": "5/12/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -101.61
+  },
+  {
+    "Date": "5/12/2020",
+    "Location": "Lo",
+    "Fund": "E",
+    "Value": -3458
+  },
+  {
+    "Date": "5/12/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 101.61
+  },
+  {
+    "Date": "5/13/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 500
+  },
+  {
+    "Date": "5/13/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -500
+  },
+  {
+    "Date": "5/14/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -5404.65
+  },
+  {
+    "Date": "5/14/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -53.99
+  },
+  {
+    "Date": "5/14/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -26.81
+  },
+  {
+    "Date": "5/14/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 53.99
+  },
+  {
+    "Date": "5/15/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -218.17
+  },
+  {
+    "Date": "5/15/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -82.17
+  },
+  {
+    "Date": "5/15/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -11.69
+  },
+  {
+    "Date": "5/16/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -15.99
+  },
+  {
+    "Date": "5/16/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -199.95
+  },
+  {
+    "Date": "5/16/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": 10.96
+  },
+  {
+    "Date": "5/17/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -37
+  },
+  {
+    "Date": "5/18/2020",
+    "Location": "Lo",
+    "Fund": "E",
+    "Value": -926
+  },
+  {
+    "Date": "5/18/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -13.99
+  },
+  {
+    "Date": "5/20/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -267.5
+  },
+  {
+    "Date": "5/20/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -383.97
+  },
+  {
+    "Date": "5/24/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -39.15
+  },
+  {
+    "Date": "5/25/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -113.51
+  },
+  {
+    "Date": "5/25/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -43.01
+  },
+  {
+    "Date": "5/25/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -91.07
+  },
+  {
+    "Date": "5/27/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -155.01
+  },
+  {
+    "Date": "5/27/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -29.97
+  },
+  {
+    "Date": "5/27/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -8.69
+  },
+  {
+    "Date": "5/28/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -300
+  },
+  {
+    "Date": "5/28/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 300
+  },
+  {
+    "Date": "5/29/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -39
+  },
+  {
+    "Date": "5/30/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -472.32
+  },
+  {
+    "Date": "5/31/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -75
+  },
+  {
+    "Date": "5/31/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -29.99
+  },
+  {
+    "Date": "5/31/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 0.01
+  },
+  {
+    "Date": "5/31/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -23.75
+  },
+  {
+    "Date": "6/1/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -250
+  },
+  {
+    "Date": "6/1/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -14.73
+  },
+  {
+    "Date": "6/1/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 250
+  },
+  {
+    "Date": "6/2/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -111.98
+  },
+  {
+    "Date": "6/3/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -250
+  },
+  {
+    "Date": "6/3/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -325
+  },
+  {
+    "Date": "6/3/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -104
+  },
+  {
+    "Date": "6/3/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -8.69
+  },
+  {
+    "Date": "6/3/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 250
+  },
+  {
+    "Date": "6/4/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": 2537
+  },
+  {
+    "Date": "6/4/2020",
+    "Location": "Lo",
+    "Fund": "E",
+    "Value": 3195
+  },
+  {
+    "Date": "6/4/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 500
+  },
+  {
+    "Date": "6/4/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -200
+  },
+  {
+    "Date": "6/5/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -397.11
+  },
+  {
+    "Date": "6/5/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 397.11
+  },
+  {
+    "Date": "6/5/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -11.67
+  },
+  {
+    "Date": "6/6/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -1086.49
+  },
+  {
+    "Date": "6/6/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": -1654.51
+  },
+  {
+    "Date": "6/6/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": -457.1
+  },
+  {
+    "Date": "6/7/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -42.28
+  },
+  {
+    "Date": "6/7/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -25.15
+  },
+  {
+    "Date": "6/8/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": 2480
+  },
+  {
+    "Date": "6/8/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 2500
+  },
+  {
+    "Date": "6/8/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 6000
+  },
+  {
+    "Date": "6/8/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 100
+  },
+  {
+    "Date": "6/8/2020",
+    "Location": "Te",
+    "Fund": "E",
+    "Value": 100
+  },
+  {
+    "Date": "6/8/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -500
+  },
+  {
+    "Date": "6/8/2020",
+    "Location": 19,
+    "Fund": "E",
+    "Value": 188.77
+  },
+  {
+    "Date": "6/9/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": -3000
+  },
+  {
+    "Date": "6/9/2020",
+    "Location": "",
+    "Fund": "E",
+    "Value": 3000
+  }
+]
